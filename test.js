@@ -4,12 +4,10 @@
 // // args(1, 2, 3);
 // args()
 
-
 // function add(a, b) {
 //     return a + b;
 // }
 // console.log(add(2, 3));
-
 
 // function add(a, b) { console.log(a + b)}
 // add(1, 2);
@@ -19,7 +17,6 @@
 //     return parseFloat(radius)*Math.PI * radius * radius;
 // }
 // console.log(area("2"));
-
 
 // let reversed3 = reverse_word(arr[2]);
 
@@ -50,3 +47,8 @@
 // }
 // return true;
 // }
+
+function sum() {
+  return a + b;
+}
+console.log(sum(1, 2));
